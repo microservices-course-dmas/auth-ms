@@ -16,3 +16,5 @@ steps:
         "push",
         "southamerica-west1-docker.pkg.dev/ms-products-launcher/image-registry/auth-ms",
       ]
+options:
+  logging: CLOUD_LOGGING_ONLY
